@@ -98,7 +98,7 @@ namespace RFIDReader
                     }
                     else
                     {
-                        throw new ArgumentException("Invalid data lenght, one word eqaul to 8 bytes 錯誤資料輸入長度, 1單位長度為 8 bytes");
+                        throw new ArgumentException("Invalid data lenght, one word eqaul to 8 bytes 錯誤資料輸入長度, 1比單位長度為 8 bytes");
                     }
                 }
             }
